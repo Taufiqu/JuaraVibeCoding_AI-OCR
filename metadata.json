@@ -1,0 +1,6 @@
+{
+  "name": "Universal AI Document Extractor",
+  "description": "Rebuilt from scratch using Google GenAI SDK (Gemini 1.5/3.5 Flash). Automatically extracts data from document files (Invoices, Receipts, IDs) in Auto-Suggest or Custom Prompt Modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
